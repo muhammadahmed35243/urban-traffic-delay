@@ -124,7 +124,7 @@ streamlit run app/app.py
 ## ✍️ Author
 
 **Muhammad Ahmed — "Electron ⚡"**  
-GitHub: [your-username](https://github.com/your-username)  
+GitHub: [your-username](https://github.com/muhammadahmed35243)  
 Inspired by Andrew Ng’s ML Specialization
 
 ---
